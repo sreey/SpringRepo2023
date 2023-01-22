@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootRestGcpApplication<spring-boot-rest-gcp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sree.gcp.springbootrestgcp.SpringBootRestGcpApplication",
+            "projectName": "spring-boot-rest-gcp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
